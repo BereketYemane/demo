@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class StudentService {
     public Student getStudent() {
-        return new Student("Bereket", "612749", 25);
+        return new Student("Berekety", "612749", 25);
 
     }
 }
